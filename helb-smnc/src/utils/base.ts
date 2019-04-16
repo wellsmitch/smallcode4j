@@ -1,0 +1,1 @@
+export const IMAGE_HOTS = 'https://apph5.mmcqing.com/xcx/images/'

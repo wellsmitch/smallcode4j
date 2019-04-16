@@ -1,0 +1,31 @@
+@import "./mixins.scss";
+
+$primary-color: #ab2b2b;
+$disabled-color: #dddddd;
+
+$black: #000000;
+$white: #ffffff;
+
+$text-color: #FF7000;
+$text-color3: #333333;
+$text-colorF7C: #FF7C00;
+$text-fontsize-28: 28px;
+$text-fontsize-22: 22px;
+$text-fontsize-32: 32px;
+$text-fontsize-26: 26px;
+$text-color-light: #666666;
+$text-color-lighter: #999999;
+
+$border-color: #dddddd;
+$border-radius: 20px;
+$text-color00: #000003;
+
+$image-bg: #f4f4f4;
+.clearfix:after {       
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    font-size:0;
+}
